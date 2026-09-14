@@ -126,3 +126,5 @@ Brug følgende gråtoner (neutrals) i `:root` som udgangspunkt for tonehierarkie
 Find link til din løsning på Netlify og aflever det på Fronter.
 
 Link-struktur: `text-styling--[dit-unikke-netlify-link].netlify.app/`
+
+
