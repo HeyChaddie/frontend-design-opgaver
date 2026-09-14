@@ -31,3 +31,4 @@ Subgrid skal bruges til at definere layoutet, hvor under-elementer arver grid-st
 Find linket til din løsning på Netlify og aflever det på Fronter.
 
 Link-struktur: **subgrid-card--**[Dit unikke netlify link].netlify.app/
+
