@@ -6,6 +6,8 @@
   }
 }
 
+/* :has() og :not() opgave START */
+
 li:not(:has(img)) h3 {
   font-size: 1.6rem;
 }
@@ -16,9 +18,13 @@ div:not(:has(img, h3)) {
 }
 
 li:has(img) img {
-  margin: -1rem;
+  width: calc(100% + 2rem);
+  margin-left: -1rem;
+  margin-top: -1rem;
   margin-bottom: 1rem;
 }
+
+/* :has() og :not() opgave END */
 
 @layer reset, cards;
 
@@ -59,13 +65,11 @@ li:has(img) img {
     margin: 0;
   }
 
-  /*
   img {
     inline-size: 100%;
     block-size: auto;
     display: block;
   }
-  */
 
   html {
     font-family: system-ui;
