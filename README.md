@@ -49,3 +49,5 @@ Link-struktur: **responsive-container--**[Dit unikke netlify link].netlify.app/
 ![c4](./assets/c4.png)
 
 ![c5](./assets/c5.png)
+
+
