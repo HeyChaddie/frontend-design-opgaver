@@ -70,3 +70,4 @@ Din løsning skal vise, at du forstår:
 Find linket til din løsning på Netlify og aflever det på Fronter.
 
 Link-struktur: `maktrolayout--[dit-unikke-netlify-link].netlify.app/`
+
